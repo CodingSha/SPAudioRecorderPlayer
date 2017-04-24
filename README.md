@@ -1,2 +1,4 @@
 # SPAudioRecorderPlayer
-SPAudioRecorderPlayer
+* 实现了基于系统AV库的音频录制，播放等功能。
+* 实现了仿微信按下录音，上滑取消录音的UI。
+* 拿来就能实现语音的录制和播放，如果你想自定义实现语音聊天，可以拿去直接使用。
